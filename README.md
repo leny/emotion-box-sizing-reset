@@ -4,7 +4,7 @@
 
 ## Usage
 
-	npm install --save emotion-meyer-reset
+	npm install --save emotion-box-sizing-reset
 
 ### Javascript
 
