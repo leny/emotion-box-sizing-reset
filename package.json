@@ -21,7 +21,7 @@
         "box-sizing"
     ],
     "author": "leny <info@flatland.be>",
-    "license": "UNLICENSE",
+    "license": "UNLICENSED",
     "bugs": {
         "url": "https://github.com/leny/emotion-box-sizing-reset/issues"
     },
