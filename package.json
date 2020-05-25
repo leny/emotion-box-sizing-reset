@@ -45,7 +45,7 @@
     "@babel/core": "^7.3.3",
     "@babel/preset-env": "^7.3.1",
     "babel-eslint": "^10.0.1",
-    "eslint": "^6.0.1",
+    "eslint": "^7.1.0",
     "eslint-plugin-prettier": "^3.0.1",
     "husky": "^4.2.5",
     "lint-staged": "^10.1.3",
