@@ -17,7 +17,8 @@
     "url": "git+https://github.com/leny/emotion-box-sizing-reset.git"
   },
   "files": [
-    "dist"
+    "dist",
+    "types"
   ],
   "keywords": [
     "emotion",
