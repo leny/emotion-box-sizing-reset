@@ -1,6 +1,6 @@
 {
   "name": "emotion-box-sizing-reset",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Eric box-sizing's reset for Emotion CSS-in-JS library.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -16,8 +16,14 @@
     "type": "git",
     "url": "git+https://github.com/leny/emotion-box-sizing-reset.git"
   },
-  "files": ["dist"],
-  "keywords": ["emotion", "reset", "box-sizing"],
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "emotion",
+    "reset",
+    "box-sizing"
+  ],
   "author": "leny <info@flatland.be>",
   "license": "UNLICENSED",
   "bugs": {
@@ -25,7 +31,10 @@
   },
   "homepage": "https://github.com/leny/emotion-box-sizing-reset#readme",
   "lint-staged": {
-    "*.js": ["npx eslint --fix --cache", "git add"]
+    "*.js": [
+      "npx eslint --fix --cache",
+      "git add"
+    ]
   },
   "husky": {
     "hooks": {
