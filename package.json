@@ -1,6 +1,6 @@
 {
   "name": "emotion-box-sizing-reset",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Eric box-sizing's reset for Emotion CSS-in-JS library.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
