@@ -6,7 +6,7 @@
  * started at 28/02/2019
  */
 
-import {css} from "@emotion/core";
+import {css} from "@emotion/react";
 
 export default css`
     html {
